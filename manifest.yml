@@ -1,0 +1,5 @@
+---
+applications:
+- name: cors-anywhere
+  random-route: true
+  memory: 32M
